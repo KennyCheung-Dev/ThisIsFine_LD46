@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c991c9334fdc46c489dce5a1d01eba69
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EvilGenius BB
+  fontNames:
+  - EvilGenius BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1fcb0ecc450dd5a4b82442a1c67e1a91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
